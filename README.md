@@ -1,4 +1,4 @@
-# Chen Yu-Chieh 陳語婕
+# Chen Xin-Kai 陳信凱
 
 **College Student | AI Enthusiast**
 
