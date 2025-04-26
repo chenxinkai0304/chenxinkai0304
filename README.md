@@ -15,7 +15,7 @@ Email: kaykaykay0304@gmail.com
 
 ## 💡 Skills
 - **Natural Language**: Chinese (native), English (intermediate)
-- **Programming Languages**: Python, C++, Java, HTML/CSS
+- **Programming Languages**: Python, C++, Java, HTML/CSS, C#
 - **AI & Deep Learning**: CNN, Transformer, GAN, LLM Basics
 - **Frameworks**: PyTorch, TensorFlow
 - **Tools**: VS Code, Google Colab, Andriod Studio
