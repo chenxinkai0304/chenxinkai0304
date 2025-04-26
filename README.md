@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on AI projects related to **Computer Vision** and **Virtual Try-On**
 
-- 📫 How to reach me **chenamy20080814@gmail.com**
+- 📫 How to reach me **kaykaykay0304@gmail.com**
 
 ---
 
