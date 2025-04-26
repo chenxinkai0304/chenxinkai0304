@@ -1,6 +1,6 @@
 # Chen Xin-Kai 陳信凱
 
-**College Student | AI Enthusiast**
+**College Student | AI Developers**
 
 Taoyuan, Taiwan  
 Email: kaykaykay0304@gmail.com
