@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen Xinkai</h1>
-<h3 align="center">A passionate AI developer and ballet dancer from Taiwan</h3>
+<h3 align="center">A passionate AI developer from Taiwan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;AI;Exploring+Deep+Learning+and+Generative+AI;">
