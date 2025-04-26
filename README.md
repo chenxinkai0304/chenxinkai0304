@@ -9,7 +9,7 @@ Email: kaykaykay0304@gmail.com
 
 ## 🎓 Education
 - **2022 - Present**  
-  2022.09-Present B.Eng. , Department of Computer Science and Information Engineering , National Ilan University
+  Department of Computer Science and Information Engineering , National Ilan University
 
 ---
 
