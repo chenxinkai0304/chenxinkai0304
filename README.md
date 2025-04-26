@@ -19,7 +19,7 @@ Email: kaykaykay0304@gmail.com
 - **AI & Deep Learning**: CNN, Transformer, GAN, LLM Basics
 - **Frameworks**: PyTorch, TensorFlow
 - **Tools**: VS Code, Google Colab
-- **Web Development**: Flask (basic)
+- **Web Development**: WordPress, Flask 
 - **Other**: Image Processing, FaceShape Dectect and Hairstyle Recommendation Systems
 
 ---
