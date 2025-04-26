@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CSI Transformer Behavior Recognition**
 
-- 🌱 I’m currently learning **Transformer**, **Flask**, and **Generative Models**
+- 🌱 I’m currently learning **Transformer**, **CNN**, and **Generative Models**
 
 - 👯 I’m looking to collaborate on AI projects related to **Computer Vision** and **Virtual Try-On**
 
